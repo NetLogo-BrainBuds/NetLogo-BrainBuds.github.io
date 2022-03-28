@@ -269,9 +269,9 @@ true
 false
 "" ""
 PENS
-"food-in-pile1" 1 0 -11221820 true "" "plotxy ticks sum [food] of patches with [pcolor = cyan]"
-"food-in-pile2" 1 0 -13791810 true "" "plotxy ticks sum [food] of patches with [pcolor = sky]"
-"food-in-pile3" 1 0 -13345367 true "" "plotxy ticks sum [food] of patches with [pcolor = blue]"
+"Insula" 1 0 -11221820 true "" "plotxy ticks count turtles with [pcolor = 65.5]"
+"food-in-pile2" 1 0 -13791810 true "" "plotxy ticks count turtles with [pcolor = 44.4]"
+"food-in-pile3" 1 0 -13345367 true "" "plotxy ticks turtles with [pcolor = 14.9]"
 
 @#$#@#$#@
 ## WHAT IS IT?
