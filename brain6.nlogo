@@ -253,6 +253,21 @@ count turtles with [pcolor = 44.4]
 1
 11
 
+Food in each pile
+time
+food
+0
+50
+0
+120
+true
+false
+"" ""
+PENS
+"food-in-pile1" 1 0 -11221820 true "" "plotxy ticks sum [food] of patches with [pcolor = cyan]"
+"food-in-pile2" 1 0 -13791810 true "" "plotxy ticks sum [food] of patches with [pcolor = sky]"
+"food-in-pile3" 1 0 -13345367 true "" "plotxy ticks sum [food] of patches with [pcolor = blue]"
+
 @#$#@#$#@
 ## WHAT IS IT?
 
