@@ -1,6 +1,6 @@
 # NetLogo-BrainBuds.github.io
 Team 26's public Brain Buds NetLogo site.
-https://www.netlogoweb.org/launch#https://professoraileen.github.io/brain6
+https://www.netlogoweb.org/launch#https://professoraileen.github.io/brain6.nlogo
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
