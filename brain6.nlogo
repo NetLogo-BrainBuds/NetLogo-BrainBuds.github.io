@@ -1,3 +1,4 @@
+extensions [import-a fetch]
 globals [
   show-brainmap1?     ;; whether the brainmap1 is visible
   drains          ;; agentset of all edge patches where the brainmap1 drains off
