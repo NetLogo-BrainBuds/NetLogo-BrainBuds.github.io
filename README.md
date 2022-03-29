@@ -9,13 +9,10 @@ https://www.netlogoweb.org/launch#https://NetLogo-BrainBuds.github.io/brain6.nlo
 | zebra stripes | are neat      |    $1 |
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
 
-
-insula green 65.5
-
-orbitofrontal cortex yellow 44.4
-
-hippocampal gyrus red 14.9
-
-temporal pole purple 125.7
-
-medial temporal cortex blue 104.8
+| Brain Region        | Color           | Pcolor Number  |
+| ------------- |:-------------:| -----:|
+| Insula | Green      |    65.5 |
+| Orbitofrontal Cortex      | Yellow | 44.4 |
+| Hippocampal Gyrus      | Red      |   14.9 |
+| Temporal Pole | Purple     |    125.7 |
+| Medial Temporal Cortex | Blue      |    104.8 |
