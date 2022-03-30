@@ -82,7 +82,7 @@ end
 ; See Info tab for full copyright and license.
 @#$#@#$#@
 GRAPHICS-WINDOW
-263
+257
 10
 754
 507
