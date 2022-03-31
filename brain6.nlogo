@@ -173,8 +173,8 @@ NIL
 0
 
 TEXTBOX
-9
-30
+5
+10
 139
 58
 Setup parameters:
