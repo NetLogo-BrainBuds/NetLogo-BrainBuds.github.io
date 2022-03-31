@@ -252,7 +252,7 @@ count turtles with [pcolor = 44.4]
 17
 1
 11
-;; Example Plot from Ants example: https://ccl.northwestern.edu/netlogo/models/Ants
+
 PLOT
 5
 190
