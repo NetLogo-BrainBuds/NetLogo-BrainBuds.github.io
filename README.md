@@ -1,6 +1,6 @@
 # NetLogo-BrainBuds.github.io
 Team 26's public Brain Buds NetLogo site.
-https://www.netlogoweb.org/launch#https://NetLogo-BrainBuds.github.io/brain12.nlogo
+https://www.netlogoweb.org/launch#https://NetLogo-BrainBuds.github.io/brain13.nlogo
 
 | Brain Region        | Color           | Pcolor Number  |
 | ------------- |:-------------:| -----:|
